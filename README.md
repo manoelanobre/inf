@@ -5,5 +5,6 @@ https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content
 ![image](https://github.com/user-attachments/assets/aead830c-2cf3-4c11-80d0-45d13d7ee9de)
 ## Segunda Atividade
 https://github.com/manoelanobre/inf/commit/365549bd45914b616b4e9f28c6821112e43c9f88
-![image](https://github.com/user-attachments/assets/97ec7344-0cbe-4106-a2bc-65d1f833148b)
+![image](https://github.com/user-attachments/assets/dff9968f-db8a-4de9-a09e-00d2a871d31a)
+
 
