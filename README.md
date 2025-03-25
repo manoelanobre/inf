@@ -10,4 +10,5 @@ https://github.com/manoelanobre/inf/commit/365549bd45914b616b4e9f28c6821112e43c9
 ![image](https://github.com/user-attachments/assets/e8e13703-01af-4f55-98d5-b110defcd409)
 ## Quarta Atvidade- Power BI
 https://github.com/manoelanobre/inf/blob/8c1c114b5c778a7146d1227f09866cde99b75696/Power%20BI%20(1).pbix
-![image](https://github.com/user-attachments/assets/0b394761-7ae7-42b8-8785-5775f1223c53)
+![image](https://github.com/user-attachments/assets/adc56500-7587-43a4-8d2e-63f40841fe57)
+
