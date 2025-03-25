@@ -6,8 +6,9 @@ https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content
 ## Segunda Atividade- Excel
 https://github.com/manoelanobre/inf/commit/365549bd45914b616b4e9f28c6821112e43c9f88
 ![image](https://github.com/user-attachments/assets/dff9968f-db8a-4de9-a09e-00d2a871d31a)
-## Terceira Atividade Usando Dados Abertos- Power BI
+## Terceira Atividade- Dados Abertos
 ![image](https://github.com/user-attachments/assets/e8e13703-01af-4f55-98d5-b110defcd409)
+## Quarta Atvidade- Power BI
 
 
 
