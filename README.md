@@ -17,4 +17,5 @@ https://teams.microsoft.com/l/message/48:notes/1744329168659?context=%7B%22conte
 ![Captura de tela 2025-04-10 210822](https://github.com/user-attachments/assets/9176539b-549c-48ab-8a8b-258164854dee)
 Power BI
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/maria_machado10_fatec_sp_gov_br/EYkkrkEOOeVEiTSSR4b0sn8BW7p2QWPEJXNq7Mfg0P3kqA?e=1jUGRY
-![Uploading Captura de tela 2025-04-11 190848.png…]()
+![Captura de tela 2025-04-11 190848](https://github.com/user-attachments/assets/c5af103c-627b-4942-86ce-e137c8bd3178)
+
