@@ -18,4 +18,7 @@ https://teams.microsoft.com/l/message/48:notes/1744329168659?context=%7B%22conte
 Power BI
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/maria_machado10_fatec_sp_gov_br/EYkkrkEOOeVEiTSSR4b0sn8BW7p2QWPEJXNq7Mfg0P3kqA?e=1jUGRY
 ![Captura de tela 2025-04-11 190848](https://github.com/user-attachments/assets/c5af103c-627b-4942-86ce-e137c8bd3178)
+atividade sorvete e cerveja
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/IceCream%20(2).xlsx?d=wdf3198fba5a94907b330184917d8cad7&csf=1&web=1&e=Io8Vde
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/HousePrices_HalfMil.xlsx?d=w52c48d2953c24e079d40d841d0051a92&csf=1&web=1&e=tTn0ki
 
