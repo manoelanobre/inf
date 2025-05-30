@@ -15,11 +15,13 @@ https://github.com/manoelanobre/inf/blob/8c1c114b5c778a7146d1227f09866cde99b7569
 Excel
 https://teams.microsoft.com/l/message/48:notes/1744329168659?context=%7B%22contextType%22%3A%22chat%22%7D
 ![Captura de tela 2025-04-10 210822](https://github.com/user-attachments/assets/9176539b-549c-48ab-8a8b-258164854dee)
-Power BI
+## Power BI
 https://fatecspgov-my.sharepoint.com/:u:/g/personal/maria_machado10_fatec_sp_gov_br/EYkkrkEOOeVEiTSSR4b0sn8BW7p2QWPEJXNq7Mfg0P3kqA?e=1jUGRY
 ![Captura de tela 2025-04-11 190848](https://github.com/user-attachments/assets/c5af103c-627b-4942-86ce-e137c8bd3178)
 atividade sorvete e cerveja
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/IceCream%20(2).xlsx?d=wdf3198fba5a94907b330184917d8cad7&csf=1&web=1&e=Io8Vde
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/HousePrices_HalfMil.xlsx?d=w52c48d2953c24e079d40d841d0051a92&csf=1&web=1&e=tTn0ki
-ATIVIDADE 29/05/25
-
+## ATIVIDADE 29/05/25
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos.xlsx?d=w96c9d29a37aa496a969ecb746a308e90&csf=1&web=1&e=5NOLLY
+## ATIVIDADE 30/05/25
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador.xlsx?d=wcac235228b0f456599345bebbd1a5d7b&csf=1&web=1&e=NuUC65
