@@ -21,4 +21,5 @@ https://fatecspgov-my.sharepoint.com/:u:/g/personal/maria_machado10_fatec_sp_gov
 atividade sorvete e cerveja
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/IceCream%20(2).xlsx?d=wdf3198fba5a94907b330184917d8cad7&csf=1&web=1&e=Io8Vde
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/HousePrices_HalfMil.xlsx?d=w52c48d2953c24e079d40d841d0051a92&csf=1&web=1&e=tTn0ki
+ATIVIDADE 29/05/25
 
