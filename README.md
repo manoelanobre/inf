@@ -26,7 +26,6 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_b
 ## ATIVIDADE 30/05/25
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador.xlsx?d=wcac235228b0f456599345bebbd1a5d7b&csf=1&web=1&e=NuUC65
 ## ATIVIDADE POWER APPS 
-
-
 https://github.com/user-attachments/assets/e9036caa-dc1e-4e37-af11-6ca88497139e
+## ATIVIDADE POWER AUTOMATE
 
