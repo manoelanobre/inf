@@ -28,4 +28,5 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/manoela_nobre_fatec_sp_gov_b
 ## ATIVIDADE POWER APPS 
 https://github.com/user-attachments/assets/e9036caa-dc1e-4e37-af11-6ca88497139e
 ## ATIVIDADE POWER AUTOMATE
+![image](https://github.com/user-attachments/assets/d63427af-8ab9-4b32-ad98-b824ce376b07)
 
