@@ -31,5 +31,7 @@ https://github.com/user-attachments/assets/e9036caa-dc1e-4e37-af11-6ca88497139e
 https://github.com/manoelanobre/inf/blob/7ea918a7f8147208e5b27f710325cd40c70dffe1/Email%20%E2%80%93%20MANOELA%20BATISTA%20NOBRE%20%E2%80%93%20Outlook%20-%20Google%20Chrome%202025-06-11%2018-14-39.mp4
 atividade 8
 aplicativo 
+![image](https://github.com/user-attachments/assets/216af097-4f12-44eb-b69d-4892d857c4a8)
+dashboard
 ![image](https://github.com/user-attachments/assets/4c1a2681-16a9-4f6e-a87d-bfce64aed902)
 
